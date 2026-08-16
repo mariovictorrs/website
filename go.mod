@@ -1,4 +1,4 @@
-module github.com/ComicShrimp/website
+module github.com/mariovictorrs/website
 
 go 1.25.1
 
