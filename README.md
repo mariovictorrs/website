@@ -43,7 +43,7 @@ For other operating systems or detailed instructions, refer to the [official Hug
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ComicShrimp/website.git
+   git clone https://github.com/mariovictorrs/website.git
    cd website
    ```
 

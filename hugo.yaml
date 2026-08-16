@@ -20,7 +20,7 @@ menu:
         type: search
     - name: GitHub
       weight: 3
-      url: "https://github.com/ComicShrimp"
+      url: "https://github.com/mariovictorrs"
       params:
         icon: github
 
