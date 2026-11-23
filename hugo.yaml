@@ -1,5 +1,6 @@
 baseURL: https://mariovictor.dev/
-languageCode: "pt-BR"
+defaultContentLanguage: pt-br
+locale: "pt-BR"
 title: Mário Victor
 
 module:
@@ -11,15 +12,21 @@ outputs:
 
 menu:
   main:
+    - name: Contribuições
+      pageRef: /contribuicoes
+      weight: 1
+    - name: Experiência
+      pageRef: /experiencia
+      weight: 2
     - name: Blog
       pageRef: /blog
-      weight: 1
-    - name: Search
-      weight: 2
+      weight: 3
+    - name: Buscar
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 3
+      weight: 5
       url: "https://github.com/mariovictorrs"
       params:
         icon: github
