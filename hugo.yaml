@@ -1,5 +1,5 @@
 baseURL: https://mariovictor.dev/
-languageCode: "pt-BR"
+locale: "pt-BR"
 title: Mário Victor
 
 module:
