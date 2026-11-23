@@ -7,7 +7,7 @@ title: ""
 
 {{< hextra/hero-container cols="1" style="display:flex;flex-direction:column-reverse;align-items:center;text-align:center;max-width:48rem;margin-inline:auto;" image="https://github.com/mariovictorrs.png" imageTitle="Foto de perfil de Mário Victor" imageWidth="200" imageHeight="200" imageClass="hx:inline-block hx:overflow-hidden hx:rounded-full" >}}
 {{< hextra/hero-headline >}}Mário Victor Ribeiro Silva{{< /hextra/hero-headline >}}
-{{< hextra/hero-subtitle >}}Desenvolvedor de software sênior{{< /hextra/hero-subtitle >}}
+{{< hextra/hero-subtitle >}}Desenvolvedor de Software Sênior{{< /hextra/hero-subtitle >}}
 
 Atuo na arquitetura e evolução de produtos de software, participando de decisões técnicas, desenvolvimento, CI/CD e mentoria de equipes. Também contribuo com projetos open source como Archinstall, Ghostty e FastAPI.
 
@@ -25,9 +25,9 @@ Atuo na arquitetura e evolução de produtos de software, participando de decis�
 Algumas contribuições integradas a projetos que uso e acompanho:
 
 {{< cards cols="3" >}}
-  {{< card link="https://github.com/archlinux/archinstall/pull/4555" title="Archinstall" subtitle="Funcionalidades para o instalador do Arch Linux, incluindo Plymouth e login manager do Plasma." >}}
-  {{< card link="https://github.com/ghostty-org/ghostty/pull/7632" title="Ghostty" subtitle="Tradução pt_BR no terminal e correção do build do site no Arch Linux." >}}
-  {{< card link="https://github.com/fastapi/fastapi/pull/4869" title="FastAPI" subtitle="Melhorias na documentação: modo escuro automático, correções e traduções pt_BR." >}}
+{{< card link="https://github.com/archlinux/archinstall/pull/4555" title="Archinstall" subtitle="Funcionalidades para o instalador do Arch Linux, incluindo Plymouth e login manager do Plasma." >}}
+{{< card link="https://github.com/ghostty-org/ghostty/pull/7632" title="Ghostty" subtitle="Tradução pt_BR no terminal e correção do build do site no Arch Linux." >}}
+{{< card link="https://github.com/fastapi/fastapi/pull/4869" title="FastAPI" subtitle="Melhorias na documentação: modo escuro automático, correções e traduções pt_BR." >}}
 {{< /cards >}}
 
 [Ver contribuições e PRs integrados →](/contribuicoes/)
