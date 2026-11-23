@@ -5,7 +5,8 @@ focused changes that fit the existing site and its content.
 
 ## Where things live
 
-- `hugo.yaml` contains the site configuration and imports the Hextra theme as a Hugo module.
+- `hugo.yaml` contains the site configuration and imports the
+  [Hextra theme](https://imfing.github.io/hextra/) as a Hugo module.
 - `content/` contains pages and blog posts in Markdown; follow nearby files' front matter
   and content conventions when adding or editing pages.
 - `layouts/` contains site-specific Hugo templates and shortcodes.
